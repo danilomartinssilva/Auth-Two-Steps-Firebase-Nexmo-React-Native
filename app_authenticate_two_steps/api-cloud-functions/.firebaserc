@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "one-time": "beta-one-time-password",
+    "default": "beta-one-time-password"
+  }
+}
